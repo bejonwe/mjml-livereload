@@ -1,14 +1,14 @@
 {
-    "name": "kisiticketsmail",
+    "name": "mjml-livereload",
     "version": "1.0.0",
-    "description": "kisiticketsmail",
+    "description": "Template using gulp to automatically build mjml with included livereload webserver.",
     "main": "gulpfile.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
     "repository": {
         "type": "git",
-        "url": "git@git.kisi.org:KISI/kisiticketsmail.git"
+        "url": "git@github.com:bejonwe/mjml-livereload.git"
     },
     "author": "",
     "license": "MIT",
